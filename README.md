@@ -15,7 +15,6 @@ Some very limited merging of precincts in the tabular election data and precinct
 * `COUNTY`: County name
 * `COUNTYFP`: County FIPS code
 * `Precinct`: Precinct name
-* `CODE`: Precinct code
 * `PRES12D`: Number of votes for 2012 Democratic presidential candidate
 * `PRES12R`: Number of votes for 2012 Republican presidential candidate
 * `GOV12D`: Number of votes for 2012 Democratic gubernatorial candidate
