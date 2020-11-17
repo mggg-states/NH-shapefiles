@@ -1,5 +1,5 @@
 # NH-shapefiles
-This shapefile was obtained from NH Granit: New Hampshire’s Statewide GIS Clearinghouse. It was processed by students in Diana Davis' Redistricting REU at Swarthmore College.
+This shapefile was obtained from NH Granit: New Hampshire’s Statewide GIS Clearinghouse. It was processed by students in Diana Davis' Districting Data REU: Sara Asgari, Quinn Basewitz, Ethan Bergmann, Jack Brogsol, Martina Kampel, Becca Keating, and Dylan Torrance. Some additional processing was done by MGGG staff.
 
 ## Sources
 The New Hampshire precinct shapefile was obtained from [NH Granit: New Hampshire’s Statewide GIS Clearinghouse](www.granit.unh.edu/data/downloadfreedata/downloaddata.html), a GIS service of the State of New Hampshire. Election data come from the [New Hampshire Secretary of State](https://sos.nh.gov/elections/elections/election-results/). 2010 Decennial Census demographic data were downloaded from the [Census API](https://api.census.gov/data/2010/dec/sf1). The 2010 census block shapefile for New Hampshire was downloaded from the US Census Bureau’s [TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html).
@@ -31,6 +31,8 @@ Some very limited merging of precincts in the tabular election data and precinct
 * `EC14R`: Number of votes for 2014 Republican executive council candidate
 *	`PRES16D`: Number of votes for 2016 Democratic presidential candidate
 *	`PRES16R`: Number of votes for 2016 Republican presidential candidate
+* `GOV16D`: Number of votes for 2016 Democratic gubernatorial candidate
+* `GOV16R`: Number of votes for 2016 Republican gubernatorial candidate
 *	`SEN16D`: Number of votes for 2016 Democratic senate candidate
 *	`SEN16R`: Number of votes for 2016 Republican senate candidate
 *	`USH16D`: Number of votes for 2016 Democratic US House candidate
