@@ -1,5 +1,5 @@
 # NH-shapefiles
-This shapefile was obtained from NH Granit: New Hampshire’s Statewide GIS Clearinghouse. It was processed by students in Diana Davis' Districting Data REU: Sara Asgari, Quinn Basewitz, Ethan Bergmann, Jack Brogsol, Martina Kampel, Becca Keating, and Dylan Torrance. Some additional processing was done by MGGG staff.
+This shapefile was obtained from NH Granit: New Hampshire’s Statewide GIS Clearinghouse. 2012-2018 data were processed by students in Diana Davis' Districting Data REU: Sara Asgari, Quinn Basewitz, Ethan Bergmann, Jack Brogsol, Martina Kampel, Becca Keating, and Dylan Torrance. 2020 data were processed by collaborator Bill Brown from Hanover, NH. Some additional processing was done by MGGG staff.
 
 ## Sources
 The New Hampshire precinct shapefile was obtained from [NH Granit: New Hampshire’s Statewide GIS Clearinghouse](www.granit.unh.edu/data/downloadfreedata/downloaddata.html), a GIS service of the State of New Hampshire. Election data come from the [New Hampshire Secretary of State](https://sos.nh.gov/elections/elections/election-results/). 2010 Decennial Census demographic data were downloaded from the [Census API](https://api.census.gov/data/2010/dec/sf1). The 2010 census block shapefile for New Hampshire was downloaded from the US Census Bureau’s [TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html).
@@ -41,6 +41,18 @@ Some very limited merging of precincts in the tabular election data and precinct
 *	`SSEN16R`: Number of votes for 2016 Republican state senate candidate
 * `GOV18D`: Number of votes for 2018 Democratic gubernatorial candidate
 * `GOV18R`: Number of votes for 2018 Republican gubernatorial candidate
+* `EC20D`: Number of votes for 2020 Democratic executive council candidate
+* `EC20R`: Number of votes for 2020 Republican executive council candidate
+* `GOV20D`: Number of votes for 2020 Democratic gubernatorial candidate
+* `GOV20R`: Number of votes for 2020 Republican gubernatorial candidate
+* `PRES20D`: Number of votes for 2020 Democratic presidential candidate
+*	`PRES20R`: Number of votes for 2020 Republican presidential candidate
+*	`SEN20D`: Number of votes for 2020 Democratic senate candidate
+*	`SEN20R`: Number of votes for 2020 Republican senate candidate
+*	`USH20D`: Number of votes for 2020 Democratic US House candidate
+*	`USH20R`: Number of votes for 2020 Republican US House candidate
+* `SSEN20D`: Number of votes for 2020 Democratic state senate candidate
+*	`SSEN20R`: Number of votes for 2020 Republican state senate candidate
 * `TOTPOP`: Total population from 2010 Decennial Census
 * `NH_WHITE`: White, non-hispanic, population from 2010 Decennial Census
 * `NH_BLACK`: Black, non-hispanic, population from 2010 Decennial Census
