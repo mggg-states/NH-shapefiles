@@ -83,7 +83,7 @@ Some very limited merging of precincts in the tabular election data and precinct
 * `SEND`: State Senate district
 
 ## Projection
-This shapefile uses a UTM projection centered on New Hampshire (ESPG:3437).
+This shapefile uses a UTM projection centered on New Hampshire (ESPG: 3437).
 
 ## Rating
 We give this shapefile an A rating. All data were obtained from the state government and processing was conducted by a group trained by and working closely with MGGG.
